@@ -1,4 +1,4 @@
-streamlit==1.21.0
+streamlit==1.39
 skyfield==1.49
 datetime
 
