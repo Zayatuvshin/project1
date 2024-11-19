@@ -1,4 +1,4 @@
 streamlit==1.21.0
-skyfield==1.29
+skyfield==1.45
 datetime
-python<3.12
+
